@@ -1,10 +1,14 @@
 # Description
 
-Please include a summary of the changes and the related issue. Add screenshots if necessary.
+Please include a summary of the changes and the related issue.
 
 # Breaking changes
 
 Does this PR include any breaking changes we should be aware of?
+
+# Screenshots
+
+Add screenshots if needed. (Only if it makes this PR clearer)
 
 # Checklist
 

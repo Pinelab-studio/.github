@@ -3,6 +3,8 @@
 Contribution's are always welcome! Just:
 
 * [Fork the repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo) you'd like to contribute to
+* Checkout your forked repository. Your repository will have [upstream](https://stackoverflow.com/questions/9257533/what-is-the-difference-between-origin-and-upstream-on-github) set to the original repository, and origin will be your own repository on Github.
+* You will need to [sync your repository with the upstream one](https://stackoverflow.com/questions/7244321/how-do-i-update-or-sync-a-forked-repository-on-github) from time to time, because things will change on the upstream repository.
 * [Create a Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) for your changes against the original repository
 
 ## Coding guidelines

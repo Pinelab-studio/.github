@@ -19,4 +19,4 @@ Please make sure you've done the following checks:
 - [ ] I have added or updated test cases for important functionality
 - [ ] I have updated the README if needed
 - [ ] I have reviewed my own PR, fixed all typo's and removed unused/commented code
-- [ ] - [ ] Have you correctly increased the version number to the next [patch/minor/major](https://semver.org/#summary)? _(Only needed for publishable NPM packages)_
+- [ ] Have you correctly increased the version number to the next [patch/minor/major](https://semver.org/#summary)? _(Only needed for publishable NPM packages)_

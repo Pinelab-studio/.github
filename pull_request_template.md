@@ -20,4 +20,7 @@ Add screenshots if needed.
 :zap: Most of the time:
 - [ ] I have added or updated test cases for important functionality
 - [ ] I have updated the README if needed
-- [ ] Have you correctly increased the version number to the next [patch/minor/major](https://semver.org/#summary)? _(Only needed for publishable NPM packages)_
+
+:package: For publishable packages:
+- [ ] Have you correctly increased the version number to the next [patch/minor/major](https://semver.org/#summary)?
+- [ ] Have you added your changes to the [changelog](https://keepachangelog.com/en/1.0.0/)https://keepachangelog.com/en/1.0.0/? 

@@ -23,4 +23,4 @@ Add screenshots if needed.
 
 :package: For publishable packages:
 - [ ] Have you correctly increased the version number in `package.json` to the next [patch/minor/major](https://semver.org/#summary)?
-- [ ] Have you added your changes to the [changelog](https://keepachangelog.com/en/1.0.0/)https://keepachangelog.com/en/1.0.0/? 
+- [ ] Have you added your changes to the [changelog](https://keepachangelog.com/en/1.0.0/)? 

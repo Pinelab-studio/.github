@@ -14,13 +14,13 @@ Add screenshots if needed.
 
 :pushpin: Always:
 - [ ] I have set a clear title
-- [ ] My PR is small and contains only a single feature. (Split into multiple PR's if needed)
-- [ ] I have reviewed my own PR, fixed all typo's and removed unused/commented code
+- [ ] My PR is small and contains a single feature
+- [ ] I have [checked my own PR](## "Fix typo's and remove unused or commented out code")
 
 :zap: Most of the time:
 - [ ] I have added or updated test cases for important functionality
 - [ ] I have updated the README if needed
 
 :package: For publishable packages:
-- [ ] Have you correctly increased the version number in `package.json` to the next [patch/minor/major](https://semver.org/#summary)?
-- [ ] Have you added your changes to the changelog? [See this example](https://github.com/Pinelab-studio/pinelab-vendure-plugins/blob/main/packages/vendure-plugin-invoices/CHANGELOG.md)
+- [ ] I have [increased the version number](## "After increasing the version to the next patch/minor/major, the package will be published automatically after merge") in `package.json`
+- [ ] I have added my changes to the `CHANGELOG.md` [See this example](https://github.com/Pinelab-studio/pinelab-vendure-plugins/blob/main/packages/vendure-plugin-invoices/CHANGELOG.md)

@@ -8,7 +8,7 @@ Does this PR include any breaking changes we should be aware of?
 
 # Screenshots
 
-Add screenshots if needed.
+You can add screenshots here if applicable.
 
 # Checklist
 

@@ -2,6 +2,13 @@
 
 Please include a summary of the changes and the related issue.
 
+# Deploy
+
+This needs to happen to deploy this feature, for example:
+
+- [ ] Migrate DB before merging
+- [ ] Merge PR
+
 # Breaking changes
 
 Does this PR include any breaking changes we should be aware of?
